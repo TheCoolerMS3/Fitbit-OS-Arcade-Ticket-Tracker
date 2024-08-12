@@ -1,0 +1,5 @@
+<svg viewport-fill="fb-cyan">
+  <text id="tickets" x="50%" y="50%+15"
+      fill="black" font-size="32" font-family="System-Regular"
+      text-anchor="middle" text-length="20">0</text>
+</svg>
