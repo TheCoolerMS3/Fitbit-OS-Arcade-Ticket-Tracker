@@ -1,1 +1,2 @@
-console.log('Hello world!');
+let tickets = 0
+console.log("Hi")

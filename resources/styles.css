@@ -10,3 +10,15 @@
   height: 100%;
   fill: white;
 }
+
+.application-fill           { fill: fb-pink; }
+.foreground-fill            { fill: fb-white; }
+.background-fill            { fill: fb-black; }
+
+#minus #text {
+  text-buffer: "-1";
+}
+
+#add #text {
+  text-buffer: "+1";
+}
