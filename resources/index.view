@@ -1,7 +1,10 @@
 <svg viewport-fill="black">
-  <text id="ticketstext" x="50%" y="55%"
-      fill="white" font-size="32" font-family="System-Regular"
+  <text id="ticketstext" x="50%" y="50%"
+      fill="white" font-size="40" font-family="System-Regular"
       text-anchor="middle" text-length="20">0</text>
+    <text id="ticketemoji" x="50%" y="20%"
+      fill="white" font-size="32" font-family="System-Regular"
+      text-anchor="middle" text-length="20">🎟️</text>
   <use id="minus" href="#text-button" class="text-button bottom left secondary application-fill" />
   <use id="add" href="#text-button" class="text-button bottom right application-fill" />
 
